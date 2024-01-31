@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  * @author reroes
  */
-public class ArrayList02 {
+public class ArrayList021 {
 
     public static void main(String[] args) {
      
